@@ -6,4 +6,7 @@ dist/
 .pytest_cache/
 build/
 .tox/
-.mypy_cache/
+.mypy_cache/ 
+1.csv
+outputs/
+run_examples.sh
